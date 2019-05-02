@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.rabbitmq.spring-amqp-consumer-todo.iml" filepath="$PROJECT_DIR$/.idea/modules/com.rabbitmq.spring-amqp-consumer-todo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.rabbitmq.spring-amqp-consumer-todo.main.iml" filepath="$PROJECT_DIR$/.idea/modules/com.rabbitmq.spring-amqp-consumer-todo.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/com.rabbitmq.spring-amqp-consumer-todo.test.iml" filepath="$PROJECT_DIR$/.idea/modules/com.rabbitmq.spring-amqp-consumer-todo.test.iml" />
+    </modules>
+  </component>
+</project>

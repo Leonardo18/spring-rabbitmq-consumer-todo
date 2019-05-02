@@ -1,0 +1,15 @@
+spring:
+  rabbit:
+    url: localhost
+    port: 5672
+    exchange: todo
+    user: guest
+    pass: guest
+    todo:
+      queue: tasks
+      dead-letter: tasks-dead-letter-queue
+    listener:
+      simple:
+        retry:
+          enabled: true
+          max-attempts: 3
